@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Website](https://img.shields.io/website?label=spackdigi.com&style=for-the-badge&url=https%3A%2F%2Fspackdigi.com)](https://spackdigi.com)
+
+## I'm a Full Stack Developer!!
+
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
-
-[![Website](https://img.shields.io/website?label=spackdigi.com&style=for-the-badge&url=https%3A%2F%2Fspackdigi.com)](https://spackdigi.com)
 
 ### Connect with me:
 
@@ -29,8 +31,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
----
 
 ### Languages and Tools:
 
