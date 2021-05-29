@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > # I'm a Full Stack Developer!!
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][instagram]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][instagram]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][instagram]
+[<img align="left" alt="Laravel" width="26px" src="https://user-images.githubusercontent.com/41501919/97107515-082b1200-16ee-11eb-8a27-1a046c47d762.png" />][instagram]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][instagram]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][instagram]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://spackdigi.com
-[twitter]: https://twitter.com/KamalakarPolu
+[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/channel/UCGjSnDSZZckz3HkBrPy6Wfw?view_as=subscriber
-[instagram]: https://www.instagram.com/kamalakar_polu
-[linkedin]: https://in.linkedin.com/in/kamalakar-polu-a925955a
+[instagram]: https://www.instagram.com/
+[linkedin]: https://in.linkedin.com/
