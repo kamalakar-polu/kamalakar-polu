@@ -22,6 +22,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
 
+
+ <h3 align="center">My Skills and Tech Stack I Work With:</h3>
+
+| Skills | Description |
+| --- | --- |
+| Languages &nbsp; &nbsp; | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![bash](https://img.shields.io/badge/Bash-212C42?style=for-the-badge&logo=GNUBASH&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  ![livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=white) ||
+| Databases & Administration | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)|
+| UI Design & Motion Graphics Softwares | ![photoshop](https://img.shields.io/badge/Photoshop-8BC3FC?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![photoshop](https://img.shields.io/badge/AfterEffects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![burpsuite](https://img.shields.io/badge/CorelDraw-black?style=for-the-badge&logo=coreldraw&logoColor=white)|
+| Version Control | ![github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+
 ### Connect with me:
 
 [<img align="left" alt="spackdigi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
